@@ -21,7 +21,6 @@ This is a Face Detection application built using Python, Tkinter, OpenCV, and Me
 1. Clone the repository:
     ```bash
     git clone https://github.com/kumarmalla/FaceDetection.git
-    cd FaceDetectionApp
     ```
 
 2. Install the required packages:
